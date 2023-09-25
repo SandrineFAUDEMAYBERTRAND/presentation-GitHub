@@ -1,4 +1,4 @@
-![image_écrans_et_ordinateur_portable]("C:\Users\sandf\OneDrive\Documents\GitHUB-Perso\image.jpeg")
+![image_écrans_et_ordinateur_portable](./image.jpeg)
 
 # Sandrine FAUDEMAY-BERTRAND
 
