@@ -2,7 +2,8 @@
 Je m'appelle Sandrine FAUDEMAY BERTRAND 
 J'habite en France, en Charente (16)
 
-Actuellement , je suis en formation développeur web et accessibilité, afin de passer le titre professionnel de développeur web et web mobile en septembre 2024. Un stage ayant lieu du 19 juin 2024 au 14 août 2024
+Actuellement , je suis en formation développeur web et accessibilité, afin de passer le titre professionnel de développeur web et web mobile en septembre 2024. 
+Un stage non-rémunéré a lieu du 19 juin 2024 au 14 août 2024.
 
 
 # Hi!
