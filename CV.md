@@ -7,6 +7,16 @@
 sandfaudemay@gmail.com
 
 #### Expériences
+* Développeuse Web Ecole O'clock – du 17 avril 2024 au 17 juin 2024
+Projet de fin de formation - Réalisation d'une application web en équipe, de sa conception, jusqu'au déploiement d'un MVP en méthodologie agile.
+
+* Formation Développeur Web Accessibilité - titre professionnel de niveau V : Développeur Web et Web mobile
+  École O’clock - Formation en téléprésentiel
+  De septembre 2023 à août 2024
+  1174 heures intensives + 280h de stage
+  -> 8 mois de Socle: HTML5/CSS3/PHP/Javascript
+  -> 2 mois de projet de fin de formation (ou projet personnalisant)
+  -> 2 mois de stage
 
 * Décembre 2021 à avril 2023 - Educatrice familiale à SOS Village d’enfants à Châteaudun (28), Persan (45) puis à Action Enfance de Monts-sur-Guesnes (86)
 
